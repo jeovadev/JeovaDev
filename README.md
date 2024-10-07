@@ -16,7 +16,7 @@ CRONOGRAMA DAS AULAS
 - [x] Aula 07
 - [x] Aula 08
 - [x] Aula 09
-- [ ] Aula 10
+- [x] Aula 10
 - [ ] Aula 11
 - [ ] Aula 12
 - [ ] Aula 13
