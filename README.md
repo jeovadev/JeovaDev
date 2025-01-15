@@ -12,4 +12,6 @@
 
 Cursando desenvolvimento web na EBAC (Escola Britânica de Artes Criativas e Tecnologia)
 
-### Artigo em desenvolvimento: https://jeovadev.github.io/Artigo/
+### Artigos em desenvolvimento: 
+https://jeovadev.github.io/Artigo/
+https://jeovadev.github.io/artigodenoticia/
