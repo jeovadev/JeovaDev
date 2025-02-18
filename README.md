@@ -4,7 +4,6 @@
  ## apredendo:
 
 * JavaScript
-* Phyton
 * HTML
 * CSS
 
@@ -12,8 +11,6 @@
 
 Cursando desenvolvimento web na EBAC (Escola Britânica de Artes Criativas e Tecnologia)
 
-### Módulo 1 - Resumo Completo na WEB
-https://jeovadev.github.io/Modulo1/ 
 ### A jornada de Astro, o Gato espacial
 https://jeovadev.github.io/historia-do-gatinho/
 ### Portifólio simples na web
