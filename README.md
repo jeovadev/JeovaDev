@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Jeova Freitas
  <div>
   <a href="https://github.com/jeovadev">
-  <img height="60%" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeovadev&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="80%" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeovadev&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Jeova-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
